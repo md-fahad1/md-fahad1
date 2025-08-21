@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Fahad Khan</h1>
 
 <div align="center">
-  <img src="https://github.com/md-fahad1/md-fahad1/blob/main/fahad1.png" width="300" style="border-radius:50%; box-shadow: 0 0 50px #00f; margin-bottom:20px;">
+  <img src="https://github.com/md-fahad1/md-fahad1/blob/main/fahad1.png" width="1000" style="border-radius:50%; box-shadow: 0 0 50px #00f; margin-bottom:20px;">
 </div>
 
 <p align="center">
