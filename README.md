@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/md-fahad1/md-fahad1/blob/main/fahad1.png" alt="Md Fahad Khan banner" />
   <p>
-    <em>Full Stack Developer • Designer • Tech Enthusiast</em>
+    <em>**Front-End Developer • Entrepreneur • Tech Enthusiast**</em>
   </p>
 </div>
 
@@ -13,7 +13,7 @@
 
 # 👨‍💻 Hi 👋, I'm Md Fahad Khan
 
-**Full-Stack Developer | Web Enthusiast | UI/UX Designer**
+
 
 Passionate about building **clean, performant, and user-friendly applications**. Skilled in both **frontend & backend development** and experienced with multiple databases. I also enjoy **designing interfaces** and creating engaging presentations.  
 
